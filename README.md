@@ -136,5 +136,5 @@ After writing the code:
 * One click shows their **age in years, months, and days**.
 
 ---
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fd1943ce-4e0e-4889-aaca-a23862384fbe" />
 
